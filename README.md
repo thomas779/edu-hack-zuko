@@ -47,3 +47,4 @@ bun run dev
 ## Update deployment instructions
 ## Add API documentation
 ## Include performance tips
+## Refactor code for better readability
