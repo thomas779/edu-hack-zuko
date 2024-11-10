@@ -53,3 +53,4 @@ bun run dev
 ## wip
 ## wip again
 ## refactor configuation file simso
+## fix: typo in README
