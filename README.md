@@ -33,24 +33,3 @@ Thereafter run the following command to run Zuko locally:
 ```
 bun run dev
 ```
-## Add contributing guidelines
-## Update installation steps
-## Add troubleshooting section
-## Add contributing guidelines
-## Update installation steps
-## Add troubleshooting section
-## Add contributing guidelines
-## Update installation steps
-## Add troubleshooting section
-## Improve architecture documentation
-## Add security considerations
-## Update deployment instructions
-## Add API documentation
-## Include performance tips
-## Refactor code for better readability
-## Add more tests
-## Fix typos
-## wip
-## wip again
-## refactor configuation file simso
-## fix: typo in README
