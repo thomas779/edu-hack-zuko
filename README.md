@@ -52,3 +52,4 @@ bun run dev
 ## Fix typos
 ## wip
 ## wip again
+## refactor configuation file simso
