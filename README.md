@@ -38,3 +38,4 @@ bun run dev
 ## Add troubleshooting section
 ## Add contributing guidelines
 ## Update installation steps
+## Add troubleshooting section
