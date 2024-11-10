@@ -36,3 +36,4 @@ bun run dev
 ## Add contributing guidelines
 ## Update installation steps
 ## Add troubleshooting section
+## Add contributing guidelines
