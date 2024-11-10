@@ -34,3 +34,4 @@ Thereafter run the following command to run Zuko locally:
 bun run dev
 ```
 ## Add contributing guidelines
+## Update installation steps
