@@ -50,3 +50,4 @@ bun run dev
 ## Refactor code for better readability
 ## Add more tests
 ## Fix typos
+## wip
