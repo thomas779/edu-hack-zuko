@@ -42,3 +42,4 @@ bun run dev
 ## Add contributing guidelines
 ## Update installation steps
 ## Add troubleshooting section
+## Improve architecture documentation
