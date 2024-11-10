@@ -46,3 +46,4 @@ bun run dev
 ## Add security considerations
 ## Update deployment instructions
 ## Add API documentation
+## Include performance tips
