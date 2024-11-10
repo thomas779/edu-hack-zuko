@@ -48,3 +48,4 @@ bun run dev
 ## Add API documentation
 ## Include performance tips
 ## Refactor code for better readability
+## Add more tests
