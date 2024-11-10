@@ -45,3 +45,4 @@ bun run dev
 ## Improve architecture documentation
 ## Add security considerations
 ## Update deployment instructions
+## Add API documentation
