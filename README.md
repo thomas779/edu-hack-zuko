@@ -49,3 +49,4 @@ bun run dev
 ## Include performance tips
 ## Refactor code for better readability
 ## Add more tests
+## Fix typos
