@@ -44,3 +44,4 @@ bun run dev
 ## Add troubleshooting section
 ## Improve architecture documentation
 ## Add security considerations
+## Update deployment instructions
